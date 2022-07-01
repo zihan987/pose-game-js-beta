@@ -1,12 +1,11 @@
 # pose-game 
 
-在线体验：http://43.142.92.147/
-元宇宙上的体验地址：[vhq.zihanachai.com](vhq.zihanachai.com)
+元宇宙上的体验地址：后续上线。
 
 代码直接下载到本地即可。
 
 ```bash
-$ git clone https://github.com/zihan987/pose-game-js.git 
+$ git clone https://github.com/zihan987/pose-game-js-beta.git 
 ```
 
 打开index.html即可进入游戏。
