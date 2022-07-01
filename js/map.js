@@ -1,4 +1,3 @@
-
 var Map = function(){
 
 	var map = Config.map, ctx, frontWidth = map.stateWidth, windowLeft, stage, spirits = [];
@@ -162,39 +161,3 @@ var Map = function(){
 
 		
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
